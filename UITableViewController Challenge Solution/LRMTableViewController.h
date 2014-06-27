@@ -1,5 +1,5 @@
 //
-//  LRMViewController.h
+//  LRMTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Lucas Maciel on 6/27/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LRMViewController : UIViewController
+@interface LRMTableViewController : UITableViewController
 
 @end
